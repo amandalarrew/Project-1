@@ -1,4 +1,4 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 1: Which Scores Have the Most Earning Potential? A University Recruitment Analysis Based on SAT Scores and Intended College Major.
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Which Scores Have the Most Earning Potential? A University Recruitment Analysis Based on SAT Scores and Intended College Major.
 
 ### Overview
 
